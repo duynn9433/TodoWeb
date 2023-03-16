@@ -78,6 +78,12 @@
             <version>2.0.4</version>
         </dependency>
 
+<!--        content negotiation for xml-->
+        <dependency>
+            <groupId>com.fasterxml.jackson.dataformat</groupId>
+            <artifactId>jackson-dataformat-xml</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
